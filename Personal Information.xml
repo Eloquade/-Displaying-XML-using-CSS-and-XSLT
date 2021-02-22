@@ -29,4 +29,17 @@
         <primaryschool>Primary School:Liberato Damian Elementary School</primaryschool>
         <email>Gmail:jimenezjheave123@gmail.com</email>
     </Assignment_section>
+    <Assignment_section> 
+        <idphoto></idphoto>
+        <info>PERSONAL INFORMATION</info> 
+        <lastname>Last Name: Dumalay</lastname>
+        <firstname>First Name: Darell Andre</firstname> 
+        <middlename>Middle Name: Laurio</middlename> 
+        <birthday>Birthday:April 6, 2001</birthday> 
+        <placeofbirth>Place Of Birth: Pasig City</placeofbirth>
+        <address>Address:1253 Kamias st. Napico Pasig City</address>
+        <secondaryschool>Secondary School: Cainta CAtholic College</secondaryschool>
+        <primaryschool>Primary School:Lanie Casipe Learning Center</primaryschool>
+        <email>Gmail:Wizdevin990@gmail.com</email>
+    </Assignment_section>
 </Assignment>
