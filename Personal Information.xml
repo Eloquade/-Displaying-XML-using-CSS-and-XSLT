@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<?xml-stylesheet type="text/css" href="Geeks.css"?> 
+<?xml-stylesheet type="text/css" href="Assignment.css"?> 
 <Assignment> 
     <title>Assignment – Integrative Programming and Technologies</title> 
     <Assignment_section> 
@@ -14,7 +14,8 @@
         <secondaryschool>Secondary School: Paranaque National HighSchool(PNHS)</secondaryschool>
         <primaryschool>Primary School:Arandia College</primaryschool>
         <email>Gmail:perez.lawrence08@gmail.com</email>
-        <idphoto></idphoto>
+        
+
     </Assignment_section>
     
 </Assignment> 
