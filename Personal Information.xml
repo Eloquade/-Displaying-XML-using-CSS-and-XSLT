@@ -42,4 +42,17 @@
         <primaryschool>Primary School:Lanie Casipe Learning Center</primaryschool>
         <email>Gmail:Wizdevin990@gmail.com</email>
     </Assignment_section>
+    <Assignment_section> 
+        <idphoto></idphoto>
+        <info>PERSONAL INFORMATION</info> 
+        <lastname>Last Name: Florendo</lastname>
+        <firstname>First Name: Renzo</firstname> 
+        <middlename>Middle Name: Tuazon</middlename> 
+        <birthday>Birthday:March 6, 1997</birthday> 
+        <placeofbirth>Place Of Birth: Rizal medical center</placeofbirth>
+        <address>Address:195 balderama st. pineda pasig city</address>
+        <secondaryschool>Secondary School: kapitolyo highschool</secondaryschool>
+        <primaryschool>Primary School:Pineda elementary school</primaryschool>
+        <email>Gmail:rengroundren@gmail.com</email>
+    </Assignment_section>
 </Assignment>
