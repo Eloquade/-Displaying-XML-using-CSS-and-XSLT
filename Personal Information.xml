@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <?xml-stylesheet type="text/css" href="Assignment.css"?> 
 <Assignment> 
-    <title>Assignment – Integrative Programming and Technologies</title> 
+    <title>Assignment 1 – Integrative Programming and Technologies</title> 
     <Assignment_section> 
         <idphoto></idphoto>
-        <info>PERESONAL INFORMATION</info> 
+        <info>PERSONAL INFORMATION</info> 
         <lastname>Last Name: Perez</lastname>
         <firstname>First Name: Lawrence</firstname> 
         <middlename>Middle Name: Balace</middlename> 

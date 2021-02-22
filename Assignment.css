@@ -21,15 +21,18 @@ title {
       color: yellowgreen; 
   
       } 
-      info,lastname,firstname,middlename,birthday,placeofbirth,address,secondaryschool,primaryschool,email,idphoto { 
+      lastname,firstname,middlename,birthday,placeofbirth,address,secondaryschool,primaryschool,email,idphoto { 
                                  display:block; 
-                                 text-align:center; 
+                                 text-align:center;
+                                 font-size: 15px; 
                                  } 
 info { 
      color:green;  
      text-decoration: underline  ; 
      font-weight:bolder; 
-     font-size:45px; 
+     font-size:30px;
+     display:block; 
+     text-align:center;  
      } 
  lastname{ 
        color:green
