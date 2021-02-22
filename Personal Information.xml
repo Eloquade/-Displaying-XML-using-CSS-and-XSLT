@@ -3,6 +3,7 @@
 <Assignment> 
     <title>Assignment – Integrative Programming and Technologies</title> 
     <Assignment_section> 
+        <idphoto></idphoto>
         <info>PERESONAL INFORMATION</info> 
         <lastname>Last Name: Perez</lastname>
         <firstname>First Name: Lawrence</firstname> 
@@ -14,6 +15,6 @@
         <primaryschool>Primary School:Arandia College</primaryschool>
         <email>Gmail:perez.lawrence08@gmail.com</email>
         <idphoto></idphoto>
-    </Assignment_section> 
+    </Assignment_section>
     
 </Assignment> 
