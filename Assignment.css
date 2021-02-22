@@ -18,7 +18,7 @@ title {
       text-align:center; 
       font-size:40px; 
       background-color: mintcream; 
-      color: white; 
+      color: yellowgreen; 
   
       } 
       info,lastname,firstname,middlename,birthday,placeofbirth,address,secondaryschool,primaryschool,email,idphoto { 
@@ -44,20 +44,20 @@ birthday {
        color:orange 
        } 
 placeofbirth {
-       color:aqua
+       color:maroon
 }
 address{
-       color:azure
+       color:magenta
 }
 secondaryschool{
-       color:aliceblue
+       color:saddlebrown
 }
 primaryschool{
-       color:antiquewhite
+       color:teal
 }
 email{
-       color:bisque 
+       color:red
 }
 idphoto{
-       color:brown
+       color:black
 }
