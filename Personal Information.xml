@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="Geeks.css"?> 
+<Assignment> 
+    <title>Assignment – Integrative Programming and Technologies</title> 
+    <Assignment_section> 
+        <info>PERESONAL INFORMATION</info> 
+        <lastname>Perez</lastname>
+        <firstname>Lawrence</firstname> 
+        <middlename>Balace</middlename> 
+        <birthday>Sorting Algo</birthday> 
+        <placeofbirth>Dingalan, Aurora</placeofbirth>
+        <address>Isabelle Garden Villa Brgy Moonwalk Paranaque City</address>
+        <secondaryschool>Paranaque National HighSchool(PNHS)</secondaryschool>
+        <primaryschool>Arandia College</primaryschool>
+        <email>perez.lawrence08@gmail.com</email>
+        <idphoto>Photo:</idphoto>
+        <img src="lawrence-perez.jpg" alt="Error ! no image found"></img>
+    </Assignment_section> 
+    
+</Assignment> 

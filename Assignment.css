@@ -1,0 +1,63 @@
+Assignment 
+              { 
+              font-size:80%; 
+              margin:0.5em; 
+              font-family: Verdana; 
+              display:block; 
+              } 
+Assignment_section { 
+              display:block;  
+              border: 1px solid silver; 
+              margin:0.5em;  
+              padding:0.5em;  
+              background-color:whitesmoke; 
+              } 
+title { 
+      display:block; 
+      font-weight:bolder; 
+      text-align:center; 
+      font-size:40px; 
+      background-color: mintcream; 
+      color: white; 
+  
+      } 
+      info,lastname,firstname,middlename,birthday,placeofbirth,address,secondaryschool,primaryschool,email,idphoto { 
+                                 display:block; 
+                                 text-align:center; 
+                                 } 
+info { 
+     color:green;  
+     text-decoration: underline  ; 
+     font-weight:bolder; 
+     font-size:30px; 
+     } 
+ lastname{ 
+       color:green
+       } 
+firstname { 
+       color:brown 
+       } 
+middlename { 
+       color:blue
+       } 
+birthday {  
+       color:orange 
+       } 
+placeofbirth {
+       color:aqua
+}
+address{
+       color:azure
+}
+secondaryschool{
+       color:aliceblue
+}
+primaryschool{
+       color:antiquewhite
+}
+email{
+       color:bisque 
+}
+idphoto{
+       color:brown
+}
