@@ -26,8 +26,8 @@
   - [x] Use the above example apply different design.
 ***
 
-### Leader: [Lawrence Perez](https://github.com/Eloquade)
-## Members that contribute in the code
+## Leader: [Lawrence Perez](https://github.com/Eloquade)
+### Members that contribute in the code
 
 - [x] [Jheave Jimenez](https://github.com/jheavejimenez)
 - [x] [Darell Andre Dumalay](https://github.com/MadDog-afk)
