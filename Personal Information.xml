@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <?xml-stylesheet type="text/css" href="Assignment.css"?> 
-<Assignment> 
+<Assignment xmlns:xlink="www.gmail.com"> 
     <title>Assignment 1 – Integrative Programming and Technologies</title> 
     <Assignment_section> 
         <idphoto></idphoto>
-        <info>PERSONAL INFORMATION</info> 
+        <info>PERSONAL INFORMATION</info>   
         <lastname>Last Name: Perez</lastname>
         <firstname>First Name: Lawrence</firstname> 
         <middlename>Middle Name: Balace</middlename> 
@@ -13,10 +13,12 @@
         <address>Address: Isabelle Garden Villa Brgy Moonwalk Paranaque City</address>
         <secondaryschool>Secondary School: Paranaque National HighSchool(PNHS)</secondaryschool>
         <primaryschool>Primary School:Arandia College</primaryschool>
-        <email>Gmail:perez.lawrence08@gmail.com</email>
+        <email xlink:type="simple" xlink:href="https://mail.google.com/mail/u/2/#inbox" xlink:show="new">
+        Gmail:perez.lawrence08@gmail.com</email>
+        
     </Assignment_section>
     <Assignment_section> 
-        <idphoto></idphoto>
+        <idphoto1></idphoto1>
         <info>PERSONAL INFORMATION</info> 
         <lastname>Last Name: Jimenez</lastname>
         <firstname>First Name: Jheave</firstname> 
@@ -26,10 +28,11 @@
         <address>Address:109 Mh Del Pilar Santo Tomas Pasig City</address>
         <secondaryschool>Secondary School: Sagad High School</secondaryschool>
         <primaryschool>Primary School:Liberato Damian Elementary School</primaryschool>
-        <email>Gmail:jimenezjheave123@gmail.com</email>
+        <email xlink:type="simple" xlink:href="https://mail.google.com/mail/u/2/#inbox" xlink:show="new">Gmail:jimenezjheave123@gmail.com</email>
+        
     </Assignment_section>
     <Assignment_section> 
-        <idphoto></idphoto>
+        <idphoto2></idphoto2>
         <info>PERSONAL INFORMATION</info> 
         <lastname>Last Name: Dumalay</lastname>
         <firstname>First Name: Darell Andre</firstname> 
@@ -39,10 +42,11 @@
         <address>Address:1253 Kamias st. Napico Pasig City</address>
         <secondaryschool>Secondary School: Cainta CAtholic College</secondaryschool>
         <primaryschool>Primary School:Lanie Casipe Learning Center</primaryschool>
-        <email>Gmail:Wizdevin990@gmail.com</email>
+        <email xlink:type="simple" xlink:href="https://mail.google.com/mail/u/2/#inbox" xlink:show="new">Gmail:Wizdevin990@gmail.com</email>
+        
     </Assignment_section>
     <Assignment_section> 
-        <idphoto></idphoto>
+        <idphoto3></idphoto3>
         <info>PERSONAL INFORMATION</info> 
         <lastname>Last Name: Florendo</lastname>
         <firstname>First Name: Renzo</firstname> 
@@ -52,10 +56,11 @@
         <address>Address:195 balderama st. pineda pasig city</address>
         <secondaryschool>Secondary School: kapitolyo highschool</secondaryschool>
         <primaryschool>Primary School:Pineda elementary school</primaryschool>
-        <email>Gmail:rengroundren@gmail.com</email>
+        <email xlink:type="simple" xlink:href="https://mail.google.com/mail/u/2/#inbox" xlink:show="new">Gmail:rengroundren@gmail.com</email>
+        
     </Assignment_section>
     <Assignment_section> 
-        <idphoto></idphoto>
+        <idphoto4></idphoto4>
         <info>PERSONAL INFORMATION</info> 
         <lastname>Last Name: Macabugao</lastname>
         <firstname>First Name: Donna</firstname> 
@@ -65,6 +70,7 @@
         <address>Address:116 A. Luna street, Salapan</address>
         <secondaryschool>Secondary School: Lallo Naional High School</secondaryschool>
         <primaryschool>Primary School:Lallo National High School</primaryschool>
-        <email>Gmail:macabugaodonna@gmail.com</email>
+        <email xlink:type="simple" xlink:href="https://mail.google.com/mail/u/2/#inbox" xlink:show="new">Gmail:macabugaodonna@gmail.com</email>
+
     </Assignment_section>
 </Assignment>
