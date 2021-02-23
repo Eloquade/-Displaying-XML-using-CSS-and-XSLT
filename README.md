@@ -23,7 +23,7 @@
  
 ***
 - Displaying XML using XSLT
-  -[x] Use the above example apply different design.
+  - [x] Use the above example apply different design.
 ***
 
 ### Leader: [Lawrence Perez](https://github.com/Eloquade)
