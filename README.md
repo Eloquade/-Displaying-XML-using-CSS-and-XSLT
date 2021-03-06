@@ -24,8 +24,17 @@
 ***
 - Displaying XML using XSLT
   - [x] Use the above example apply different design.
- ### Results:
-  ![image](https://user-images.githubusercontent.com/79312196/110210615-669ea300-7ecd-11eb-9877-a4ac49027a59.png)
+ ### Results: Xslt
+ ![image](https://user-images.githubusercontent.com/79312196/110210615-669ea300-7ecd-11eb-9877-a4ac49027a59.png)
+  
+***
+
+ ### Results: Xml
+ ![image](https://user-images.githubusercontent.com/79312196/110210729-00fee680-7ece-11eb-9f28-c0bcb7b86e53.png)
+ ![image](https://user-images.githubusercontent.com/79312196/110210750-212ea580-7ece-11eb-9fb7-6956696baab3.png)
+ ![image](https://user-images.githubusercontent.com/79312196/110210776-3c011a00-7ece-11eb-87c9-67933063c70b.png)
+ ![image](https://user-images.githubusercontent.com/79312196/110210797-50451700-7ece-11eb-821b-3340305f459f.png)
+ ![image](https://user-images.githubusercontent.com/79312196/110210817-605cf680-7ece-11eb-8716-49082614afd4.png)
 
 ***
 
