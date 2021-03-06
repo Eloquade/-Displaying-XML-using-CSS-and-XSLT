@@ -24,6 +24,9 @@
 ***
 - Displaying XML using XSLT
   - [x] Use the above example apply different design.
+ ### Results:
+  ![image](https://user-images.githubusercontent.com/79312196/110210615-669ea300-7ecd-11eb-9877-a4ac49027a59.png)
+
 ***
 
 ## Leader: [Lawrence Perez](https://github.com/Eloquade)
