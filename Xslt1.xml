@@ -1,0 +1,64 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "personal_info.xsl"?>
+<class>
+ <personal id = "00">
+    <td><img src="lawrence-perez.jpg"/></td>
+ <lastname>Perez</lastname>
+ <firstname>Lawrence</firstname>
+ <birthday>sept 08,1999</birthday>
+ <placeofbirth>dingalan aurora</placeofbirth>
+ <address>isabelle garden villa armstrong avenue paranaque city</address>
+ <secondaryschool>paranaque national highschool</secondaryschool>
+ <primaryschool>Arandia College</primaryschool>
+ <email>perez.lawrence08@gmail.com</email>
+
+ </personal>
+ <personal id = "01">
+    <photo1></photo1>
+    <lastname> Jimenez</lastname>
+    <firstname> Jheave</firstname> 
+    <middlename> Aborde</middlename> 
+    <birthday>July 14, 2000</birthday> 
+    <placeofbirth> Mandaluyong</placeofbirth>
+    <address>109 Mh Del Pilar Santo Tomas Pasig City</address>
+    <secondaryschool>Sagad High School</secondaryschool>
+    <primaryschool>:Liberato Damian Elementary School</primaryschool>
+    <email>jimenezjheave123@gmail.com</email>
+ </personal>
+ <personal id = "02">
+    <photo2></photo2>
+    <lastname> Dumalay</lastname>
+    <firstname> Darell Andre</firstname> 
+    <middlename> Laurio</middlename> 
+    <birthday>April 6, 2001</birthday> 
+    <placeofbirth> Pasig City</placeofbirth>
+    <address>1253 Kamias st. Napico Pasig City</address>
+    <secondaryschool> Cainta CAtholic College</secondaryschool>
+    <primaryschool>Lanie Casipe Learning Center</primaryschool>
+    <email >Wizdevin990@gmail.com</email>
+ </personal>
+ <personal id = "03">
+    <photo3></photo3>
+    <lastname> Florendo</lastname>
+    <firstname> Renzo</firstname> 
+    <middlename> Tuazon</middlename> 
+    <birthday>March 6, 1997</birthday> 
+    <placeofbirth> Rizal medical center</placeofbirth>
+    <address>195 balderama st. pineda pasig city</address>
+    <secondaryschool> kapitolyo highschool</secondaryschool>
+    <primaryschool>Pineda elementary school</primaryschool>
+    <email>rengroundren@gmail.com</email>
+ </personal>
+ <personal id = "04">>
+    <photo4></photo4>
+    <lastname> Macabugao</lastname>
+    <firstname> Donna</firstname> 
+    <middlename> Palermo</middlename> 
+    <birthday>October 21, 1999</birthday> 
+    <placeofbirth> Sta Cruz Marinduque</placeofbirth>
+    <address>116 A. Luna street, Salapan</address>
+    <secondaryschool> Lallo National High School</secondaryschool>
+    <primaryschool>Lallo National High School</primaryschool>
+    <email>macabugaodonna@gmail.com</email>
+ </personal>
+</class>

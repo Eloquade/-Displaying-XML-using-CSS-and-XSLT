@@ -5,6 +5,7 @@
       <body>
       <h2>Assignment 1 – Integrative Programming and Technologies</h2>
       <table border="1">
+        <td><img src="{photo1} "/></td>
         <tr bgcolor="#9acd32">
           <th>Last Name</th>
           <th>First Name</th>
@@ -13,6 +14,7 @@
           <th>address</th>
           <th>secondaryschool</th>
           <th>primaryschool</th>
+          <th>email</th>
         </tr>
         <xsl:for-each select="Assignment_section">
         <tr>
