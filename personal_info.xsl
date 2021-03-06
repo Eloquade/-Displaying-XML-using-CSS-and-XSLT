@@ -4,7 +4,7 @@
   <html>
   <body>
   <h2>Assignment 1 – Integrative Programming and Technologies</h2>
-  <table border="1">
+  <table border="2">
     <tr bgcolor="#9acd32">
       <th>Last Name</th>
       <th>First Name</th>
