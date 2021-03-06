@@ -24,7 +24,7 @@
       <td><xsl:value-of select="address"/></td>
       <td><xsl:value-of select="secondaryschool"/></td>
       <td><xsl:value-of select="primaryschool"/></td>
-      <td><xsl:value-of select="email"/></td>
+      <td><a href="https://mail.google.com/mail/u/2/#inbox"><xsl:value-of select="email"/></a></td>
 
     </tr>
     </xsl:for-each>
